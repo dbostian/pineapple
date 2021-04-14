@@ -80,7 +80,7 @@ Finishing touches: Attach the lever to the top with the m3x25 socket cap screw a
 ### Firmware
 The included firmware is a starting point, but if you want to flash your own (more useful) firmware, you can RESET the pro micro by tapping the 25th key twice.
 
-I've included my customized QMK folder as a starting point for creating your own keymap. Most changes are in the default keymap.c. Follow (this QMK guide)[https://beta.docs.qmk.fm/tutorial/newbs_building_firmware] to build your custom firmware.
+I've included my customized QMK folder as a starting point for creating your own keymap. Most changes are in the default keymap.c. Follow [this guide](https://beta.docs.qmk.fm/tutorial/newbs_building_firmware) to build your custom firmware.
 
 
 Fin!
