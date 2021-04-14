@@ -4,7 +4,7 @@
 
 It's a keyboard shaped like a pineapple grenade! What more do you need to know?
 
-After the (explosive?) popularity of my [F-Bomb keyboard](https://github.com/dbostian/fbomb), it dawned on me: Why didn't I shape it like a pineapple grenade? And so, here we are.
+After the (explosive?) popularity of my [F-Bomb keyboard](https://github.com/dbostian/fbomb), I was inspired to create another novelty keyboard/macropad with a similar theme. And so, here we are.
 
 What have I done?
 
