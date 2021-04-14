@@ -68,7 +68,7 @@ Solder the Pro Micro to the rows and columns.  The rows are wired to D1, D0, D4,
 
 ![example](https://i.imgur.com/jBpvN2m.jpg)
 
-Slot the pro micro into its place in the bottom of the shells, gently guide the wiring inside, and screw the halves together with m3x8 socket cap screws. Then screw the top on with m3x8 countersinks. Now you can snap the 25th switch in.
+Trim wires flush with the bottom of the PCB. Slot the pro micro into its place in the bottom of the shells, gently guide the wiring inside, and screw the halves together with m3x8 socket cap screws. Then screw the top on with m3x8 countersinks. Now you can snap the 25th switch in.
 
 ![example](https://i.imgur.com/iU7rBnp.jpg)
 
