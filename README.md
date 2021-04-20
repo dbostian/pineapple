@@ -2,6 +2,9 @@
 ## A 3d Printed Mechanical Keyboard
 ![example](https://i.imgur.com/QSNU3y5.jpg)
 
+**Designer's Note:** This project is an exploration of the theme *Information as a Weapon*. 
+
+## Intro
 It's a keyboard shaped like a pineapple grenade! What more do you need to know?
 
 After the (explosive?) popularity of my [F-Bomb keyboard](https://github.com/dbostian/fbomb), I was inspired to create another novelty keyboard/macropad with a similar theme. And so, here we are.
